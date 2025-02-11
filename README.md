@@ -16,17 +16,16 @@ The input data includes the 3 text files which are Person_info, PCR_Info, and Va
 
 ![image](https://github.com/user-attachments/assets/cece1e76-2799-4a49-8821-a9c71d61c0d5)
 
-As Admin:
+### As Admin:
 
-![image](https://github.com/user-attachments/assets/3e643f1c-3a20-4a81-bed8-9f73dee20559)
-![image](https://github.com/user-attachments/assets/d765ba27-69ad-4e30-86ca-4c5ea2580431)
+![image](https://github.com/user-attachments/assets/3e643f1c-3a20-4a81-bed8-9f73dee20559)<br/>
+![image](https://github.com/user-attachments/assets/d765ba27-69ad-4e30-86ca-4c5ea2580431)<br/>
 ![image](https://github.com/user-attachments/assets/374018b5-b423-4543-828c-3ea52f0f5015)
 
-As User:
+### As User:
 
-![image](https://github.com/user-attachments/assets/6e720a2a-a316-4581-9be7-4bf49501eefa)
-![image](https://github.com/user-attachments/assets/7382177f-5d7e-42a3-af72-e655315f74b7)
-![image](https://github.com/user-attachments/assets/02a0cff4-7b50-4265-9a35-61dd9097f465)
+![image](https://github.com/user-attachments/assets/6e720a2a-a316-4581-9be7-4bf49501eefa)<br/>
+![image](https://github.com/user-attachments/assets/7382177f-5d7e-42a3-af72-e655315f74b7)<br/>
 ![image](https://github.com/user-attachments/assets/7c0b436f-eeb0-4056-a79a-18a1d771d405)
 
 
