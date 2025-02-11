@@ -1,0 +1,10 @@
+Chris Mary Benson, P1234567, 784-2010-1086789-4, f20200027@dubai.bits-pilani.ac.in, 2010-01-24, 12, Abu Dhabi
+Isha Andrade, P1234568, 784-2000-6541287-4, f20200039@dubai.bits-pilani.ac.in, 2000-09-26, 22,  Abu Dhabi
+Juwaria Qadri, P1234569, 784-1992-5123671-5, f20200043@dubai.bits-pilani.ac.in, 1992-06-18, 30, Abu Dhabi
+Misbaah Naz, P1234570, 784-1957-9812873-1, f20200232@dubai.bits-pilani.ac.in, 1957-01-02, 65, Abu Dhabi
+Pranav Mothabhau Pawar, P1234571, 784-1976-8912735-8, pranav@dubai.bits-pilani.ac.in, 1976-12-03, 46, Dubai
+Vijay Kumar, P1234572, 784-1978-7201732-7, vijay@dubai.bits-pilani.ac.in, 1978-08-04, 44, Dubai
+Rajiv Goyal, P1234599, 784-1976-1086789-4, rajiv@hotmail.com, 1976-09-20, 46, Sharjah
+Susan Smith, P1234598, 784-1963-7823417-2, ssmith@gmail.com, 1963-02-12, 59, Ajman
+Nate Samson, P1234597, 784-1992-5123671-7, nate123@yahoo.com, 1992-06-18, 30, Fujairah
+Amira Khan, P1234596, 784-2000-6541287-8, amira_00@gmail.com, 2000-09-26, 22, Ras Al Khaimah
