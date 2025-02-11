@@ -13,7 +13,6 @@ Person_Arr = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 PCR_Arr = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Vacc_Arr = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
-
 class PCR_Test:
    def __init__(self, Test_N, Test_R, Date_PCR, ):
        self.Test_N = Test_N
@@ -38,7 +37,6 @@ class PCR_Test:
        z.append(q)
        z.append(r)
        return z
-
 
 class Vaccination:
    def __init__(self, Doses, V_N, D_V, ):
